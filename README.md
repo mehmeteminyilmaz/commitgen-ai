@@ -1,8 +1,8 @@
-##🚀 CommitGen AI
+## 🚀 CommitGen AI
 
 CommitGen AI, geliştiricilerin git diff çıktılarını analiz ederek Llama-3 (Groq) altyapısı ile profesyonel, standartlara uygun ve Türkçe commit mesajları üreten bir yapay zeka asistanıdır.
 
-##✨ Öne Çıkan Özellikler
+## ✨ Öne Çıkan Özellikler
 
 Akıllı Diff Analizi: Kod değişikliklerini otomatik olarak tarar ve anlamlı özetler çıkarır.
 
@@ -12,7 +12,7 @@ Standart Uyumu: feat:, fix:, refactor: gibi endüstri standartlarına (Conventio
 
 Güvenli Mimari: API anahtarları .env.local dosyası ile izole edilmiştir ve .gitignore ile korunur.
 
-##🛠️ Teknolojiler
+## 🛠️ Teknolojiler
 Framework: Next.js (App Router)
 
 Dil: TypeScript
