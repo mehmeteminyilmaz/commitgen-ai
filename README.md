@@ -1,4 +1,4 @@
-## 🚀 CommitGen AI
+## -- CommitGen AI --
 
 CommitGen AI, geliştiricilerin git diff çıktılarını analiz ederek Llama-3 (Groq) altyapısı ile profesyonel, standartlara uygun ve Türkçe commit mesajları üreten bir yapay zeka asistanıdır.
 
